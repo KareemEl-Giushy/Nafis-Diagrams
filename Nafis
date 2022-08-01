@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T14:11:33.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="cGRjy9YN_okOm94kk8N4" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T14:12:39.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="LAFBDVnCDggGlpSLaraw" version="20.2.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2247" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-93" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#A8A8A8;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1140" width="520" height="580" as="geometry" />
+          <mxGeometry x="240" y="1140" width="520" height="690" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-90" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;strokeColor=#A8A8A8;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="700" width="480" height="280" as="geometry" />
@@ -100,7 +100,7 @@
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-92" target="ERtssBAJHV6g9Nx7OOkK-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ERtssBAJHV6g9Nx7OOkK-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-92" target="ERtssBAJHV6g9Nx7OOkK-94">
+        <mxCell id="ERtssBAJHV6g9Nx7OOkK-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-92" target="ERtssBAJHV6g9Nx7OOkK-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-92" value="Admin Panel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -110,19 +110,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-94" value="Add Users" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-95" target="ERtssBAJHV6g9Nx7OOkK-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-95" value="Edit Users" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-96" target="ERtssBAJHV6g9Nx7OOkK-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-96" value="View Orders" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-97" target="ERtssBAJHV6g9Nx7OOkK-98">
           <mxGeometry relative="1" as="geometry" />
@@ -146,10 +146,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-100" value="Add Categories" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1540" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-101" value="Edit Category" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-102" target="ERtssBAJHV6g9Nx7OOkK-103">
           <mxGeometry relative="1" as="geometry" />
@@ -159,6 +159,12 @@
         </mxCell>
         <mxCell id="ERtssBAJHV6g9Nx7OOkK-103" value="Create Orders" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ERtssBAJHV6g9Nx7OOkK-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="ERtssBAJHV6g9Nx7OOkK-114" target="ERtssBAJHV6g9Nx7OOkK-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ERtssBAJHV6g9Nx7OOkK-114" value="Approve User As Seller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
